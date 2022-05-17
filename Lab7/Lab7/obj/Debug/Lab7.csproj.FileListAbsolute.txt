@@ -1,0 +1,7 @@
+C:\sharLabs\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\sharLabs\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\sharLabs\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\sharLabs\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+C:\sharLabs\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\sharLabs\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\sharLabs\Lab7\Lab7\obj\Debug\Lab7.pdb

@@ -1,0 +1,7 @@
+C:\sharLabs\Lab6\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\sharLabs\Lab6\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\sharLabs\Lab6\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\sharLabs\Lab6\Task1\bin\Debug\Task1.exe
+C:\sharLabs\Lab6\Task1\bin\Debug\Task1.pdb
+C:\sharLabs\Lab6\Task1\obj\Debug\Task1.exe
+C:\sharLabs\Lab6\Task1\obj\Debug\Task1.pdb
