@@ -3,7 +3,7 @@
     public class NoDiscount : ITariffPrice
     {
         private decimal price;
-
+        
         public NoDiscount(decimal price)
         {
             this.price = price;

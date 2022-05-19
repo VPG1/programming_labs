@@ -17,7 +17,7 @@ namespace task1
             tariffs.Add(new Tariff(name, new NoDiscount(price)));
         }
 
-        public decimal getAveragePrice()
+        public decimal GetAveragePrice()
         {
             decimal res = 0;
             foreach (var tariff in tariffs)

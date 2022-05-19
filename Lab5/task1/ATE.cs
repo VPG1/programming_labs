@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics.Eventing.Reader;
 using System.Runtime.Remoting.Messaging;
 using System.Security.AccessControl;
 using System.Threading;

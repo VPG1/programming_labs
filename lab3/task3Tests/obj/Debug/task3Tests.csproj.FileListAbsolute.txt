@@ -1,0 +1,12 @@
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/task3Tests.dll
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/task3Tests.pdb
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/nunit.framework.dll
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/task3.exe
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/task3.pdb
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/nunit.framework.pdb
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/bin/Debug/nunit.framework.xml
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/obj/Debug/task3Tests.csproj.AssemblyReference.cache
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/obj/Debug/task3Tests.csproj.CoreCompileInputs.cache
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/obj/Debug/task3Tests.csproj.CopyComplete
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/obj/Debug/task3Tests.dll
+/Users/kirill/Projects/labs/lab3/task1/task3Tests/obj/Debug/task3Tests.pdb

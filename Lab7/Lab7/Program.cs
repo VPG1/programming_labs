@@ -5,8 +5,6 @@ namespace Lab7
 {
     internal class Program
     {
-        
-        
         public static void Main(string[] args)
         {
             var a = new Complex(10, 5);
@@ -41,11 +39,9 @@ namespace Lab7
             Console.WriteLine("c: " + (c ? "true" : "false"));
             
             Console.WriteLine();
-
+            
             Console.WriteLine("a > c: " + (a > c));
             Console.WriteLine("a < b: " + (a < b));
-
-
         }
     }
 }

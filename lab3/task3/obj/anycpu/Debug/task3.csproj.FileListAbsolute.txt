@@ -1,0 +1,5 @@
+/Users/kirill/Projects/labs/lab3/task1/task3/bin/Debug/task3.exe
+/Users/kirill/Projects/labs/lab3/task1/task3/bin/Debug/task3.pdb
+/Users/kirill/Projects/labs/lab3/task1/task3/obj/anycpu/Debug/task3.csproj.CoreCompileInputs.cache
+/Users/kirill/Projects/labs/lab3/task1/task3/obj/anycpu/Debug/task3.exe
+/Users/kirill/Projects/labs/lab3/task1/task3/obj/anycpu/Debug/task3.pdb

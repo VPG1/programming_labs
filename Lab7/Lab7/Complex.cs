@@ -52,6 +52,18 @@ namespace Lab7
             return new Complex((left.re * right.re + left.im * right.im) / (Math.Pow(left.im, 2) + Math.Pow(right.im, 2)),
                 (left.im * right.re - left.re * right.im) / (Math.Pow(left.im, 2) + Math.Pow(right.im, 2)));
         }
+
+        public static Complex operator ++(Complex complex)
+        {
+            return complex + new Complex(1, 1);
+        }
+        
+        public static Complex operator --(Complex complex)
+        {
+            return complex - new Complex(1, 1);
+        }
+        
+        
         
         public static bool operator true(Complex complex)
         {
@@ -79,12 +91,12 @@ namespace Lab7
             return Math.Pow(complex.re, 2) + Math.Pow(complex.im, 2);
         }
 
-        public static bool operator >(Complex left, Complex right)
+        public static bool operator>(Complex left, Complex right)
         {
             return Module(left) > Module(right);
         }
 
-        public static bool operator <(Complex left, Complex right)
+        public static bool operator<(Complex left, Complex right)
         {
             return Module(left) < Module(right);
         }

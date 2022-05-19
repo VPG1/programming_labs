@@ -17,7 +17,7 @@ namespace task1
         public Tariff Tariff { get; }
 
 
-        public ATE(string address, int numOfClients, Tariff tariff)
+        private ATE(string address, int numOfClients, Tariff tariff)
         {
             this.address = address;
             this.numOfClients = numOfClients;

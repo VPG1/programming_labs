@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 using System.Runtime.ConstrainedExecution;
 
 namespace task1
@@ -10,7 +11,7 @@ namespace task1
             Ate ate = new Ate();
             ate.AddAbsDiscountTariff("tariff1", 3200, 200);
             ate.AddNoDiscountTariff("tariff2", 1200);
-            Console.WriteLine(ate.getAveragePrice());
+            Console.WriteLine(ate.GetAveragePrice());
         }
     }
 }

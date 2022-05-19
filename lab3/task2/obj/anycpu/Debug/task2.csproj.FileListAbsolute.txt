@@ -1,0 +1,12 @@
+/Users/kirill/Projects/labs/lab3/task1/task2/bin/Debug/task2.exe
+/Users/kirill/Projects/labs/lab3/task1/task2/bin/Debug/task2.pdb
+/Users/kirill/Projects/labs/lab3/task1/task2/obj/anycpu/Debug/task2.csproj.AssemblyReference.cache
+/Users/kirill/Projects/labs/lab3/task1/task2/obj/anycpu/Debug/task2.csproj.CoreCompileInputs.cache
+/Users/kirill/Projects/labs/lab3/task1/task2/obj/anycpu/Debug/task2.exe
+/Users/kirill/Projects/labs/lab3/task1/task2/obj/anycpu/Debug/task2.pdb
+/Users/kirill/Desktop/programming_labs/lab3/task2/bin/Debug/task2.exe
+/Users/kirill/Desktop/programming_labs/lab3/task2/bin/Debug/task2.pdb
+/Users/kirill/Desktop/programming_labs/lab3/task2/obj/anycpu/Debug/task2.csproj.AssemblyReference.cache
+/Users/kirill/Desktop/programming_labs/lab3/task2/obj/anycpu/Debug/task2.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/programming_labs/lab3/task2/obj/anycpu/Debug/task2.exe
+/Users/kirill/Desktop/programming_labs/lab3/task2/obj/anycpu/Debug/task2.pdb
